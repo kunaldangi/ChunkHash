@@ -1,6 +1,6 @@
 # ChunkHash
 
-ChunkHash is an analyzing and comparison for calculating hashes of Windows Portable Executable (PE) file sections using both cryptographic and fuzzy hashing algorithm.
+ChunkHash is an analyzing and comparison tool for calculating hashes of Windows Portable Executable (PE) file sections using both cryptographic and fuzzy hashing algorithm.
 
 ## Features
 
