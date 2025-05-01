@@ -8,6 +8,10 @@ ChunkHash is an analyzing and comparison for calculating hashes of Windows Porta
 - Export results to JSON file format.
 - Compatible with Windows PE (Portable Executable) format (.exe, .dll, etc.).
 
+## Usage
+
+- `chunkhash.exe <PE file> <json file>`
+
 ## Building
 
 - Download all submodules
@@ -18,3 +22,4 @@ cd build
 cmake .. -G "MingW Makefiles" -DCMAKE_TOOLCHAIN_FILE=../mingw-toolchain.cmake # generate as per your compiler
 cmake --build .
 ```
+
