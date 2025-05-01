@@ -1,0 +1,7 @@
+Methods that could bypass the detection:
+Main Program + Virus Program = Modified Main Program (Can be detected by checking it's different PE section)
+
+PE sections if (Modified Main Program) can be obfuscated?
+How? like modifiying the PE header which may detected, adding JUMPS, NOPS in code caves
+
+Solution: Fuzzy Hashing

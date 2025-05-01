@@ -1,0 +1,3 @@
+Entropy Analysis -> Works for encrpypted injected codes
+Fuzzing Hashing -> Works for changing the PE header, adding JUMPS, NOPS in code caves
+Heruistic Analysis -> Looks for known patterns of malware, like the ones used in the main program

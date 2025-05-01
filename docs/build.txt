@@ -1,0 +1,4 @@
+mkdir build
+cd build 
+cmake .. -G "MingW Makefiles" -DCMAKE_TOOLCHAIN_FILE=../mingw-toolchain.cmake
+cmake --build .

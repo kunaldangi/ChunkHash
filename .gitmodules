@@ -1,0 +1,9 @@
+[submodule "include/BLAKE2"]
+	path = include/BLAKE2
+	url = https://github.com/BLAKE2/BLAKE2.git
+[submodule "include/json"]
+	path = include/json
+	url = https://github.com/nlohmann/json.git
+[submodule "include/ssdeep"]
+	path = include/ssdeep
+	url = https://github.com/ssdeep-project/ssdeep.git
